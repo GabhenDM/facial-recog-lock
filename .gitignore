@@ -1,0 +1,9 @@
+*.jpg
+*.jpeg
+*.png
+.vscode
+__pycache__
+bin
+include
+lib
+.Python
